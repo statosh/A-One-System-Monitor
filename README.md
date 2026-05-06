@@ -47,7 +47,7 @@
 
 **Использование собранного приложения (рекомендуется):**
 
-1. Скачайте архив ["statosh-sys-mon.exe.zip"](https://gitverse.ru/statosh/IT-Top_Edu_Practice/releases).
+1. Скачайте архив ["statosh-sys-mon.exe.zip"](https://github.com/statosh/A-One-System-Monitor/releases).
 2. Распакуйте его в свободное место, например на рабочий стол.
 3. Запустите приложение с помощью **statosh-sys-mon.exe**.
 4. Пользуйтесь!
